@@ -1,33 +1,34 @@
-# 视觉资源：ZipZipPipe 统一基准
+# ZipZipPipe 视觉资产与 Logo 核验
 
-**核验日期：2026-10-16。当前状态：来源与图片文件名已归档；原图文件尚未入库。**
+更新时间：2026-10-16。十位核心角色已从原作者两批画廊逐张对照识别。
 
-## 新核验的作者动态
+## 十位标准立绘对应
 
-1. [所有的AI们，和OpenCode](https://www.bilibili.com/opus/1233069202138464289)：页面列出 **9 张图片**；作者说一条动态只能放九张，最后一位留给 OpenCode。不能由此推断九张都对应本仓库九位最初主角。
-2. [AI娘第二批，有Seed（豆包底模）](https://www.bilibili.com/opus/1236803362705375305)：页面也列出 **9 张图片**；正文点名 Seed、RWKV、DeepSeek V4F、Image 2 等。作者在评论中说明第二张为 RWKV，第六张为 Perplexity。
-3. **豆包与 Seed 的角色归属已明确**：第二条正文称 Seed 为“豆包底模”；ZipZipPipe 2026-10-12 在评论解释 Seed、Seedance、Seedream 均体现在同一人物形象中。这说明本项目豆包角色可以按 ZipZipPipe 的 Seed 设计进行视觉对照，但不应据此称豆包产品和所有 Seed 家族模型是同一个技术实体。
-4. 作者在评论中解释 GPT 龙娘构思含有“古老、富有、贪婪”的龙的联想；这是**该作者的创作意图**，并非整个社群的统一人格设定。
+| 角色 | 原帖 | 图序 | 资源目录 |
+|---|---|---:|---|
+| deepseek | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 1 | characters/deepseek/ |
+| kimi | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 2 | characters/kimi/ |
+| glm | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 3 | characters/glm/ |
+| qwen | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 4 | characters/qwen/ |
+| gemini | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 5 | characters/gemini/ |
+| claude | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 6 | characters/claude/ |
+| gpt | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 7 | characters/gpt/ |
+| grok | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 8 | characters/grok/ |
+| doubao | [B站动态](https://www.bilibili.com/opus/1236803362705375305) | 1 | characters/doubao/ |
+| minimax | [B站动态](https://www.bilibili.com/opus/1236803362705375305) | 5 | characters/minimax/ |
 
-两条动态共 **18 个展示图片位置**。页面 HTML 中对应的图片文件名、顺序以及未核验状态已存为 [source-image-manifest.json](../data/source-image-manifest.json)。这些是网页资源标识，不是已下载原图的哈希。
+## 文件结构
 
-## 原画和转载许可边界
+每位 AI 使用 characters/{角色名}/ 文件夹：logo.svg 为品牌标志 SVG 参考、SOURCE.md 记录图片和 Logo 原始来源，portrait.png 或 portrait.jpg 为自动导入且通过全套尺寸校验的 ZipZipPipe 原始美术文件。
+人物的现有 Markdown 档案继续位于 characters/{角色名}.md；每个资源目录 SOURCE.md 已链接到对应人设。
 
-- ZipZipPipe 在两条动态的置顶评论都说明：DeepSeek 鲸鱼娘基于 [上善无形](https://space.bilibili.com/4456176) 原创角色二创，按 **CC BY-NC-SA 4.0** 非商业、相同方式共享的条件创作。
-- “发布到 B 站”“开放参考”“感谢开源”都不能直接推出可以无条件将全部图片再次上传 GitHub 并商用。需要按每张作品核实作者及上游权利和明确许可。
-- 根目录 **MIT LICENSE 不会自动给第三方图片授予 MIT 权利**。后续公开仓库若含图片，必须独立声明图像许可，必要时取得明确授权。
+## 下载状态及核验
 
-## 本次未提交图片的原因
+资源目录和 Logo 已提交。十幅立绘通过 scripts/import_zipzippipe_art.py 在 PR #2 的 GitHub Actions 中整批获取；只有 10/10 均成功且每幅短边不少于 700 像素才写入并提交。
+是否导入完成要查看 data/artwork-verification.json 的 SHA256 / 尺寸记录及实际 portrait 文件；没有这些文件就代表未完成，绝不能声称已经上传原画。
 
-- 尚未取得并校验完整尺寸的 18 张原图二进制、尺寸、SHA256；目前只有页面展示资源标识。
-- 两条动态包含 OpenCode、RWKV、Perplexity 及其他衍生人物，不能作为十位主角的“全部标准立绘”包直接归档。
-- 尚未完成全部十位主角的逐张对应、原画版本差分与逐图许可核验。
+## 版权与商标
 
-继续遵循用户既定规则：**凑不齐完整而可合法收录的 ZipZipPipe 原画组时，宁可只放原帖索引，不把部分图片混入资产目录，也不拿其他画师的图替代。**
-
-## 后续全套图像入库清单
-
-1. 每位目标角色与作者原画的一一对应（包含豆包/Seed）。
-2. 原始图片实际文件、尺寸、SHA256、原帖、发布时间及衍生版本信息。
-3. ZipZipPipe 和必要上游作者许可、署名、是否可再发布、商业限制、相同方式共享要求。
-4. 在 GitHub 为素材设置独立许可证与来源说明，避免被误当 MIT 图像素材。
+ZipZipPipe 两条动态均有置顶说明：DeepSeek 鲸鱼娘基于上善无形的原创，依 CC BY-NC-SA 4.0 非商业与相同方式共享协议二创。
+这不自动证明所有其余形象均具有完全相同授权。公开发布、评论区所称开源不能替代逐图许可；将来商用请与相关权利人确认。
+SVG 参考图源自 LobeHub/lobe-icons 社区图标资源（MIT 实现），并非所有品牌方直接发布的官方授权素材；商标权保留给原权利人。仓库 MIT LICENSE 不覆盖第三方艺术作品和商标。

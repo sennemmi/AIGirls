@@ -21,58 +21,82 @@
         {
           "position": 1,
           "filename": "1d6f202c991dbfb75b57fd68732d75e84168597.png",
-          "character": "unverified",
-          "full_resolution": "not_verified",
-          "sha256": null
+          "character": "deepseek",
+          "full_resolution": "pending_binary_verification",
+          "sha256": null,
+          "identification_status": "visually_matched",
+          "evidence": "蓝色鲸尾和女仆服装",
+          "source_artwork_path": "characters/deepseek/portrait.png"
         },
         {
           "position": 2,
           "filename": "1f099083c8f81427754a9306733239164168597.png",
-          "character": "unverified",
-          "full_resolution": "not_verified",
-          "sha256": null
+          "character": "kimi",
+          "full_resolution": "pending_binary_verification",
+          "sha256": null,
+          "identification_status": "visually_matched",
+          "evidence": "月亮与 K 标记",
+          "source_artwork_path": "characters/kimi/portrait.png"
         },
         {
           "position": 3,
           "filename": "bd4e1c7e49fbb563549dc805c39cfb4c4168597.png",
-          "character": "unverified",
-          "full_resolution": "not_verified",
-          "sha256": null
+          "character": "glm",
+          "full_resolution": "pending_binary_verification",
+          "sha256": null,
+          "identification_status": "visually_matched",
+          "evidence": "狐尾与 Z 标志；作者确认第三张为 GLM",
+          "source_artwork_path": "characters/glm/portrait.png"
         },
         {
           "position": 4,
           "filename": "6c76a9b82a5885d5d08e4669833f06bf4168597.jpg",
-          "character": "unverified",
-          "full_resolution": "not_verified",
-          "sha256": null
+          "character": "qwen",
+          "full_resolution": "pending_binary_verification",
+          "sha256": null,
+          "identification_status": "visually_matched",
+          "evidence": "中式衣装与包上徽记",
+          "source_artwork_path": "characters/qwen/portrait.jpg"
         },
         {
           "position": 5,
           "filename": "52eda1bac50135bd7aeae392c30cd6b24168597.jpg",
-          "character": "unverified",
-          "full_resolution": "not_verified",
-          "sha256": null
+          "character": "gemini",
+          "full_resolution": "pending_binary_verification",
+          "sha256": null,
+          "identification_status": "visually_matched",
+          "evidence": "蓝紫猫尾与 Gemini 星形徽记",
+          "source_artwork_path": "characters/gemini/portrait.jpg"
         },
         {
           "position": 6,
           "filename": "6736ad7d38500b04446144110a4451644168597.jpg",
-          "character": "unverified",
-          "full_resolution": "not_verified",
-          "sha256": null
+          "character": "claude",
+          "full_resolution": "pending_binary_verification",
+          "sha256": null,
+          "identification_status": "visually_matched",
+          "evidence": "橙色长发及 Anthropic 风格花朵",
+          "source_artwork_path": "characters/claude/portrait.jpg"
         },
         {
           "position": 7,
           "filename": "6e1c4e1bf7889d4da8455316b616c24b4168597.jpg",
-          "character": "unverified",
-          "full_resolution": "not_verified",
-          "sha256": null
+          "character": "gpt",
+          "full_resolution": "pending_binary_verification",
+          "sha256": null,
+          "identification_status": "visually_matched",
+          "evidence": "白色龙娘与 OpenAI 结饰",
+          "source_artwork_path": "characters/gpt/portrait.jpg"
         },
         {
           "position": 8,
           "filename": "b812d87ec38b8b13a6a6ef148b3aef3b4168597.jpg",
-          "character": "unverified",
-          "full_resolution": "not_verified",
-          "sha256": null
+          "character": "grok",
+          "full_resolution": "pending_binary_verification",
+          "sha256": null,
+          "identification_status": "visually_matched",
+          "evidence": "金发黑色礼服及 xAI 风格道具",
+          "source_artwork_path": "characters/grok/portrait.jpg"
         },
         {
           "position": 9,
@@ -92,9 +116,12 @@
         {
           "position": 1,
           "filename": "1ed69d8c1e9d61dce44db50894447a1e4168597.jpg",
-          "character": "unverified",
-          "full_resolution": "not_verified",
-          "sha256": null
+          "character": "doubao",
+          "full_resolution": "pending_binary_verification",
+          "sha256": null,
+          "identification_status": "visually_matched",
+          "evidence": "衣服带 SEED 标记；作者确认豆包底模形象",
+          "source_artwork_path": "characters/doubao/portrait.jpg"
         },
         {
           "position": 2,
@@ -120,9 +147,12 @@
         {
           "position": 5,
           "filename": "c0833654a2afa9fec0a8abc6cb7108bb4168597.jpg",
-          "character": "unverified",
-          "full_resolution": "not_verified",
-          "sha256": null
+          "character": "minimax",
+          "full_resolution": "pending_binary_verification",
+          "sha256": null,
+          "identification_status": "visually_matched",
+          "evidence": "服饰上可见 MINIMAX 标记及创作工具",
+          "source_artwork_path": "characters/minimax/portrait.jpg"
         },
         {
           "position": 6,
@@ -176,5 +206,7 @@
     "Creator's pinned comment on both posts notes DeepSeek whale girl derives from 上善无形's character, with CC BY-NC-SA 4.0 noncommercial and share-alike adaptation terms.",
     "Comments thanking creator for open sharing are not an unambiguous license to rehost the complete image set or permit commercial uses.",
     "The repository MIT license does not override rights in upstream artworks."
-  ]
+  ],
+  "character_mapping_updated": "2026-10-16",
+  "full_image_files_stored": false
 }
