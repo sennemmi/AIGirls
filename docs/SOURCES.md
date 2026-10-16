@@ -1,35 +1,24 @@
-# 人设来源索引（2026-10-16）
+# 人设来源索引（更新：2026-10-16）
 
-## 原作者与同人作品
+## ZipZipPipe 的原始动态（已核对正文和部分作者评论）
 
-- ZipZipPipe，《大AI和小AI们》（九位初始主角）：https://www.bilibili.com/video/BV1tE9XBbErS/
-- 这个刀子真甜，《GPT小龙娘开始融入DeepSeek大家庭了》：https://www.bilibili.com/video/BV1EvKK6NEoi/ 。简介指出形象参考 ZipZipPipe；属于其他作者二创。
-- AI 娘百合关系作品目录：https://genderswapai.com/zh-CN/ai-gijinka/fanworks?collection=ai-yuri
+- [所有的AI们，和OpenCode](https://www.bilibili.com/opus/1233069202138464289)：9 张展示图，最后留给 OpenCode；GPT 龙娘的设计理由有作者评论。
+- [AI娘第二批，有Seed（豆包底模）](https://www.bilibili.com/opus/1236803362705375305)：9 张展示图；作者回复核对了 RWKV、Perplexity，以及 Seed/Seedance/Seedream 融合同一设计。
+- [《大AI和小AI们》](https://www.bilibili.com/video/BV1tE9XBbErS/)：最初九位核心角色群像。
+- [B 站 ZipZipPipe 作者主页](https://space.bilibili.com/4168597)。
+- [上善无形](https://space.bilibili.com/4456176)：DeepSeek 鲸鱼娘上游原创作者，相关二创注明 CC BY-NC-SA 4.0。
 
-## 二级索引：可继续点进作者原帖
+详细的 18 个展示图片文件标识见 [数据清单](../data/source-image-manifest.json)；**清单不意味着已有完整图像文件或获得转载许可**。
 
-- 综合：https://genderswapai.com/zh-CN/ai-gijinka
-- DeepSeek 娘：https://genderswapai.com/zh-CN/ai-gijinka/deepseek
-- GPT 娘：https://genderswapai.com/zh-CN/ai-gijinka/gpt
-- Claude 娘：https://genderswapai.com/zh-CN/ai-gijinka/claude
-- GLM 娘：https://genderswapai.com/zh-CN/ai-gijinka/glm
-- Gemini 娘：https://genderswapai.com/zh-CN/ai-gijinka/gemini
-- 豆包娘：https://genderswapai.com/zh-CN/ai-gijinka/seed
-- Grok 娘：https://genderswapai.com/zh-CN/ai-gijinka/grok
-- Qwen 娘：https://genderswapai.com/zh-CN/ai-gijinka/qwen
-- Kimi 娘：https://genderswapai.com/zh-CN/ai-gijinka/kimi
-- MiniMax 娘：https://genderswapai.com/zh-CN/ai-gijinka/minimax
+## 第三方图鉴索引（不是原始授权材料）
 
-## 事件资料
+- https://genderswapai.com/zh-CN/ai-gijinka
 
-- IT之家 2026-09-18，智谱 ZCode 数据上传争议及厂商回应：https://www.ithome.com/1/004/310.htm
+## 人设固定事项
 
-## 项目创建者已经明确的固定设定（不是外部事实核查结果）
+- 视觉统一参考 ZipZipPipe；没有完整原图与许可链则不上传图片。
+- DeepSeek 与 Claude 为闺蜜并有轻百合氛围；GLM 狐狸性格与 ZCode 梗；Gemini 流口水/逆袭；豆包流口水兼毒舌。
 
-- 人物外观仅参考 ZipZipPipe；不足一整套则暂不收入外观资料。
-- DeepSeek 与 Claude 是闺蜜，有轻百合气质。
-- GLM 狐狸的狡黠与 ZCode 梗值得重点保留，注意事实边界。
-- Gemini 爱流口水，具有从被吐槽到逆袭的成长线。
-- 豆包流口水，并有毒舌的人格演绎。
+## 事实事件
 
-社区梗须附具体作品，不能从一个网页推导出全中文社区统一认同；真实新闻应记录具体日期。
+- 2026-09-18，ZCode 仓库数据上传问题厂商回应转述：https://www.ithome.com/1/004/310.htm

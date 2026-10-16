@@ -1,0 +1,97 @@
+{
+  "updated": "2026-10-16",
+  "creator": "ZipZipPipe",
+  "notes": "Raw, untransformed artwork from creator's Bilibili posts; all ten images must pass download and size validation before inclusion.",
+  "files": [
+    {
+      "character": "deepseek",
+      "opus_id": "1233069202138464289",
+      "position": 1,
+      "original_filename": "1d6f202c991dbfb75b57fd68732d75e84168597.png",
+      "original_url": "https://i0.hdslb.com/bfs/new_dyn/1d6f202c991dbfb75b57fd68732d75e84168597.png",
+      "destination": "characters/deepseek/portrait.png",
+      "evidence": "蓝色鲸尾和女仆服装"
+    },
+    {
+      "character": "kimi",
+      "opus_id": "1233069202138464289",
+      "position": 2,
+      "original_filename": "1f099083c8f81427754a9306733239164168597.png",
+      "original_url": "https://i0.hdslb.com/bfs/new_dyn/1f099083c8f81427754a9306733239164168597.png",
+      "destination": "characters/kimi/portrait.png",
+      "evidence": "月亮与 K 标记"
+    },
+    {
+      "character": "glm",
+      "opus_id": "1233069202138464289",
+      "position": 3,
+      "original_filename": "bd4e1c7e49fbb563549dc805c39cfb4c4168597.png",
+      "original_url": "https://i0.hdslb.com/bfs/new_dyn/bd4e1c7e49fbb563549dc805c39cfb4c4168597.png",
+      "destination": "characters/glm/portrait.png",
+      "evidence": "狐尾与 Z 标志；作者确认第三张为 GLM"
+    },
+    {
+      "character": "qwen",
+      "opus_id": "1233069202138464289",
+      "position": 4,
+      "original_filename": "6c76a9b82a5885d5d08e4669833f06bf4168597.jpg",
+      "original_url": "https://i0.hdslb.com/bfs/new_dyn/6c76a9b82a5885d5d08e4669833f06bf4168597.jpg",
+      "destination": "characters/qwen/portrait.jpg",
+      "evidence": "中式衣装与包上徽记"
+    },
+    {
+      "character": "gemini",
+      "opus_id": "1233069202138464289",
+      "position": 5,
+      "original_filename": "52eda1bac50135bd7aeae392c30cd6b24168597.jpg",
+      "original_url": "https://i0.hdslb.com/bfs/new_dyn/52eda1bac50135bd7aeae392c30cd6b24168597.jpg",
+      "destination": "characters/gemini/portrait.jpg",
+      "evidence": "蓝紫猫尾与 Gemini 星形徽记"
+    },
+    {
+      "character": "claude",
+      "opus_id": "1233069202138464289",
+      "position": 6,
+      "original_filename": "6736ad7d38500b04446144110a4451644168597.jpg",
+      "original_url": "https://i0.hdslb.com/bfs/new_dyn/6736ad7d38500b04446144110a4451644168597.jpg",
+      "destination": "characters/claude/portrait.jpg",
+      "evidence": "橙色长发及 Anthropic 风格花朵"
+    },
+    {
+      "character": "gpt",
+      "opus_id": "1233069202138464289",
+      "position": 7,
+      "original_filename": "6e1c4e1bf7889d4da8455316b616c24b4168597.jpg",
+      "original_url": "https://i0.hdslb.com/bfs/new_dyn/6e1c4e1bf7889d4da8455316b616c24b4168597.jpg",
+      "destination": "characters/gpt/portrait.jpg",
+      "evidence": "白色龙娘与 OpenAI 结饰"
+    },
+    {
+      "character": "grok",
+      "opus_id": "1233069202138464289",
+      "position": 8,
+      "original_filename": "b812d87ec38b8b13a6a6ef148b3aef3b4168597.jpg",
+      "original_url": "https://i0.hdslb.com/bfs/new_dyn/b812d87ec38b8b13a6a6ef148b3aef3b4168597.jpg",
+      "destination": "characters/grok/portrait.jpg",
+      "evidence": "金发黑色礼服及 xAI 风格道具"
+    },
+    {
+      "character": "doubao",
+      "opus_id": "1236803362705375305",
+      "position": 1,
+      "original_filename": "1ed69d8c1e9d61dce44db50894447a1e4168597.jpg",
+      "original_url": "https://i0.hdslb.com/bfs/new_dyn/1ed69d8c1e9d61dce44db50894447a1e4168597.jpg",
+      "destination": "characters/doubao/portrait.jpg",
+      "evidence": "衣服带 SEED 标记；作者确认豆包底模形象"
+    },
+    {
+      "character": "minimax",
+      "opus_id": "1236803362705375305",
+      "position": 5,
+      "original_filename": "c0833654a2afa9fec0a8abc6cb7108bb4168597.jpg",
+      "original_url": "https://i0.hdslb.com/bfs/new_dyn/c0833654a2afa9fec0a8abc6cb7108bb4168597.jpg",
+      "destination": "characters/minimax/portrait.jpg",
+      "evidence": "服饰上可见 MINIMAX 标记及创作工具"
+    }
+  ]
+}

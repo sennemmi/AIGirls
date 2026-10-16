@@ -3,7 +3,7 @@
   "updated_at": "2026-10-16",
   "project": "AIGirls",
   "visual_reference": "ZipZipPipe",
-  "visual_assets_status": "deferred_until_complete_source_and_license_verification",
+  "visual_assets_status": "ten_zipzippipe_original_portraits_and_ten_logo_references_committed",
   "notice": "Persona content is community fan fiction and project canon, not factual attributes of AI providers.",
   "characters": [
     {
@@ -39,7 +39,11 @@
         "不把其他作者的百合剧情直接视为全网唯一正史。"
       ],
       "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/deepseek",
-      "visual_assets": "pending_complete_zipzippipe_set"
+      "visual_assets": "original_binary_verified_third_party_rights_apply",
+      "persona_path": "characters/deepseek/README.md",
+      "logo_reference_path": "characters/deepseek/logo.svg",
+      "portrait_path": "characters/deepseek/portrait.png",
+      "original_portrait_sha256": "94d58f15c93896d726be1c140de70cc06f3e33cd779bfdf3fe49355b30cce565"
     },
     {
       "id": "gpt",
@@ -74,7 +78,11 @@
         "不强制其他角色衬托她的实力。"
       ],
       "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/gpt",
-      "visual_assets": "pending_complete_zipzippipe_set"
+      "visual_assets": "original_binary_verified_third_party_rights_apply",
+      "persona_path": "characters/gpt/README.md",
+      "logo_reference_path": "characters/gpt/logo.svg",
+      "portrait_path": "characters/gpt/portrait.jpg",
+      "original_portrait_sha256": "b588317b634a6f987b48148504963f7df750e245efdcaba2488b04511c39cd4b"
     },
     {
       "id": "claude",
@@ -109,7 +117,11 @@
         "不强制升级为情侣或套用其他作者剧情。"
       ],
       "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/claude",
-      "visual_assets": "pending_complete_zipzippipe_set"
+      "visual_assets": "original_binary_verified_third_party_rights_apply",
+      "persona_path": "characters/claude/README.md",
+      "logo_reference_path": "characters/claude/logo.svg",
+      "portrait_path": "characters/claude/portrait.jpg",
+      "original_portrait_sha256": "bec975c5feb5bb316bf80c25b562ddc7d477ed788616389ae8a9762d8fdd7c36"
     },
     {
       "id": "glm",
@@ -144,7 +156,11 @@
         "厂商关于数据处理的说明仍属于厂商自述。"
       ],
       "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/glm",
-      "visual_assets": "pending_complete_zipzippipe_set"
+      "visual_assets": "original_binary_verified_third_party_rights_apply",
+      "persona_path": "characters/glm/README.md",
+      "logo_reference_path": "characters/glm/logo.svg",
+      "portrait_path": "characters/glm/portrait.png",
+      "original_portrait_sha256": "38a53dbfa1d851dd3c33212a2da09573f1f26508b5a09064476d775add9f1a8b"
     },
     {
       "id": "gemini",
@@ -179,7 +195,11 @@
         "做排行榜视频时必须注明评测版本和日期。"
       ],
       "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/gemini",
-      "visual_assets": "pending_complete_zipzippipe_set"
+      "visual_assets": "original_binary_verified_third_party_rights_apply",
+      "persona_path": "characters/gemini/README.md",
+      "logo_reference_path": "characters/gemini/logo.svg",
+      "portrait_path": "characters/gemini/portrait.jpg",
+      "original_portrait_sha256": "1dc86d13132d97ecf3c368b250676a014eb7496703704138b3ecbfe30d0acf25"
     },
     {
       "id": "doubao",
@@ -214,7 +234,11 @@
         "与 ZipZipPipe Seed 娘的视觉对应关系待原作者原图核实。"
       ],
       "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/seed",
-      "visual_assets": "pending_complete_zipzippipe_set"
+      "visual_assets": "original_binary_verified_third_party_rights_apply",
+      "persona_path": "characters/doubao/README.md",
+      "logo_reference_path": "characters/doubao/logo.svg",
+      "portrait_path": "characters/doubao/portrait.jpg",
+      "original_portrait_sha256": "81b76f71e19ed9f926e32c70f1710b7551e60efdfa858b46a4ee099d16e47847"
     },
     {
       "id": "grok",
@@ -249,7 +273,11 @@
         "不要把 Ani 的独立设定不加区别地全搬过来。"
       ],
       "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/grok",
-      "visual_assets": "pending_complete_zipzippipe_set"
+      "visual_assets": "original_binary_verified_third_party_rights_apply",
+      "persona_path": "characters/grok/README.md",
+      "logo_reference_path": "characters/grok/logo.svg",
+      "portrait_path": "characters/grok/portrait.jpg",
+      "original_portrait_sha256": "730d6ea99cb5cda25035aaf75d8815a01761a660b1ecba156b9cc6b3c48df66c"
     },
     {
       "id": "qwen",
@@ -284,7 +312,11 @@
         "开源不等于可以公开他人的隐私代码。"
       ],
       "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/qwen",
-      "visual_assets": "pending_complete_zipzippipe_set"
+      "visual_assets": "original_binary_verified_third_party_rights_apply",
+      "persona_path": "characters/qwen/README.md",
+      "logo_reference_path": "characters/qwen/logo.svg",
+      "portrait_path": "characters/qwen/portrait.jpg",
+      "original_portrait_sha256": "ef613401931a57d81a4de6aa9149acfea9de57d92e6b3f895b456cb2e6bde4ba"
     },
     {
       "id": "kimi",
@@ -319,7 +351,11 @@
         "不暗示长上下文模型绝不出错。"
       ],
       "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/kimi",
-      "visual_assets": "pending_complete_zipzippipe_set"
+      "visual_assets": "original_binary_verified_third_party_rights_apply",
+      "persona_path": "characters/kimi/README.md",
+      "logo_reference_path": "characters/kimi/logo.svg",
+      "portrait_path": "characters/kimi/portrait.png",
+      "original_portrait_sha256": "f6718d162fce6aa5f67bdd6059ee06e9b45f5b29e26828f1f317c516694a74c0"
     },
     {
       "id": "minimax",
@@ -354,7 +390,11 @@
         "人物人格不等于 MiniMax 所有真实产品特性。"
       ],
       "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/minimax",
-      "visual_assets": "pending_complete_zipzippipe_set"
+      "visual_assets": "original_binary_verified_third_party_rights_apply",
+      "persona_path": "characters/minimax/README.md",
+      "logo_reference_path": "characters/minimax/logo.svg",
+      "portrait_path": "characters/minimax/portrait.jpg",
+      "original_portrait_sha256": "5167f2bbbe9f9ee038dc163f240c847b7d953e244c25e13bdc6ee482d3e9bfb0"
     }
   ]
 }

@@ -1,0 +1,243 @@
+{
+  "recorded_at": "2026-10-16",
+  "creator": {
+    "name": "ZipZipPipe",
+    "bilibili_uid": 4168597,
+    "profile_url": "https://space.bilibili.com/4168597"
+  },
+  "asset_policy": "references_only_no_copied_images",
+  "limitations": [
+    "Only post HTML image identifiers were retrieved; original full-size binary files were not downloaded or checksummed.",
+    "The two posts show 18 image slots, but slots must not be assumed to correspond one-to-one to the ten main characters.",
+    "Public posts and comments do not by themselves establish permission to redistribute art in a MIT-licensed GitHub repository."
+  ],
+  "posts": [
+    {
+      "opus_id": "1233069202138464289",
+      "url": "https://www.bilibili.com/opus/1233069202138464289",
+      "title": "所有的AI们，和OpenCode",
+      "displayed_date": "2026-08-27 (edited)",
+      "images": [
+        {
+          "position": 1,
+          "filename": "1d6f202c991dbfb75b57fd68732d75e84168597.png",
+          "character": "deepseek",
+          "full_resolution": "validated_original",
+          "sha256": "94d58f15c93896d726be1c140de70cc06f3e33cd779bfdf3fe49355b30cce565",
+          "identification_status": "visually_matched",
+          "evidence": "蓝色鲸尾和女仆服装",
+          "source_artwork_path": "characters/deepseek/portrait.png",
+          "width": 1152,
+          "height": 2048,
+          "file_size_bytes": 3027959
+        },
+        {
+          "position": 2,
+          "filename": "1f099083c8f81427754a9306733239164168597.png",
+          "character": "kimi",
+          "full_resolution": "validated_original",
+          "sha256": "f6718d162fce6aa5f67bdd6059ee06e9b45f5b29e26828f1f317c516694a74c0",
+          "identification_status": "visually_matched",
+          "evidence": "月亮与 K 标记",
+          "source_artwork_path": "characters/kimi/portrait.png",
+          "width": 1152,
+          "height": 2048,
+          "file_size_bytes": 3388104
+        },
+        {
+          "position": 3,
+          "filename": "bd4e1c7e49fbb563549dc805c39cfb4c4168597.png",
+          "character": "glm",
+          "full_resolution": "validated_original",
+          "sha256": "38a53dbfa1d851dd3c33212a2da09573f1f26508b5a09064476d775add9f1a8b",
+          "identification_status": "visually_matched",
+          "evidence": "狐尾与 Z 标志；作者确认第三张为 GLM",
+          "source_artwork_path": "characters/glm/portrait.png",
+          "width": 1152,
+          "height": 2048,
+          "file_size_bytes": 2713595
+        },
+        {
+          "position": 4,
+          "filename": "6c76a9b82a5885d5d08e4669833f06bf4168597.jpg",
+          "character": "qwen",
+          "full_resolution": "validated_original",
+          "sha256": "ef613401931a57d81a4de6aa9149acfea9de57d92e6b3f895b456cb2e6bde4ba",
+          "identification_status": "visually_matched",
+          "evidence": "中式衣装与包上徽记",
+          "source_artwork_path": "characters/qwen/portrait.jpg",
+          "width": 3072,
+          "height": 5504,
+          "file_size_bytes": 6766518
+        },
+        {
+          "position": 5,
+          "filename": "52eda1bac50135bd7aeae392c30cd6b24168597.jpg",
+          "character": "gemini",
+          "full_resolution": "validated_original",
+          "sha256": "1dc86d13132d97ecf3c368b250676a014eb7496703704138b3ecbfe30d0acf25",
+          "identification_status": "visually_matched",
+          "evidence": "蓝紫猫尾与 Gemini 星形徽记",
+          "source_artwork_path": "characters/gemini/portrait.jpg",
+          "width": 3072,
+          "height": 5504,
+          "file_size_bytes": 6908107
+        },
+        {
+          "position": 6,
+          "filename": "6736ad7d38500b04446144110a4451644168597.jpg",
+          "character": "claude",
+          "full_resolution": "validated_original",
+          "sha256": "bec975c5feb5bb316bf80c25b562ddc7d477ed788616389ae8a9762d8fdd7c36",
+          "identification_status": "visually_matched",
+          "evidence": "橙色长发及 Anthropic 风格花朵",
+          "source_artwork_path": "characters/claude/portrait.jpg",
+          "width": 3072,
+          "height": 5504,
+          "file_size_bytes": 7036217
+        },
+        {
+          "position": 7,
+          "filename": "6e1c4e1bf7889d4da8455316b616c24b4168597.jpg",
+          "character": "gpt",
+          "full_resolution": "validated_original",
+          "sha256": "b588317b634a6f987b48148504963f7df750e245efdcaba2488b04511c39cd4b",
+          "identification_status": "visually_matched",
+          "evidence": "白色龙娘与 OpenAI 结饰",
+          "source_artwork_path": "characters/gpt/portrait.jpg",
+          "width": 3072,
+          "height": 5504,
+          "file_size_bytes": 6598179
+        },
+        {
+          "position": 8,
+          "filename": "b812d87ec38b8b13a6a6ef148b3aef3b4168597.jpg",
+          "character": "grok",
+          "full_resolution": "validated_original",
+          "sha256": "730d6ea99cb5cda25035aaf75d8815a01761a660b1ecba156b9cc6b3c48df66c",
+          "identification_status": "visually_matched",
+          "evidence": "金发黑色礼服及 xAI 风格道具",
+          "source_artwork_path": "characters/grok/portrait.jpg",
+          "width": 3072,
+          "height": 5504,
+          "file_size_bytes": 6994230
+        },
+        {
+          "position": 9,
+          "filename": "de8addda736dba61ad620718c42dcfe54168597.png",
+          "character": "unverified",
+          "full_resolution": "not_verified",
+          "sha256": null
+        }
+      ]
+    },
+    {
+      "opus_id": "1236803362705375305",
+      "url": "https://www.bilibili.com/opus/1236803362705375305",
+      "title": "AI娘第二批，有Seed（豆包底模）",
+      "displayed_date": "2026-08-15",
+      "images": [
+        {
+          "position": 1,
+          "filename": "1ed69d8c1e9d61dce44db50894447a1e4168597.jpg",
+          "character": "doubao",
+          "full_resolution": "validated_original",
+          "sha256": "81b76f71e19ed9f926e32c70f1710b7551e60efdfa858b46a4ee099d16e47847",
+          "identification_status": "visually_matched",
+          "evidence": "衣服带 SEED 标记；作者确认豆包底模形象",
+          "source_artwork_path": "characters/doubao/portrait.jpg",
+          "width": 3072,
+          "height": 5504,
+          "file_size_bytes": 5673986
+        },
+        {
+          "position": 2,
+          "filename": "304320365bebd151190e1afc91b261ee4168597.png",
+          "character": "RWKV (creator comment)",
+          "full_resolution": "not_verified",
+          "sha256": null
+        },
+        {
+          "position": 3,
+          "filename": "0d3b71b2bc968e1dd6ffcbdeedde295e4168597.jpg",
+          "character": "unverified",
+          "full_resolution": "not_verified",
+          "sha256": null
+        },
+        {
+          "position": 4,
+          "filename": "60bb256121d10c9f54af8d8f9e80e6c14168597.jpg",
+          "character": "unverified",
+          "full_resolution": "not_verified",
+          "sha256": null
+        },
+        {
+          "position": 5,
+          "filename": "c0833654a2afa9fec0a8abc6cb7108bb4168597.jpg",
+          "character": "minimax",
+          "full_resolution": "validated_original",
+          "sha256": "5167f2bbbe9f9ee038dc163f240c847b7d953e244c25e13bdc6ee482d3e9bfb0",
+          "identification_status": "visually_matched",
+          "evidence": "服饰上可见 MINIMAX 标记及创作工具",
+          "source_artwork_path": "characters/minimax/portrait.jpg",
+          "width": 3072,
+          "height": 5504,
+          "file_size_bytes": 5762348
+        },
+        {
+          "position": 6,
+          "filename": "68f0f9f937ebeeb3ab44cac78fc63a504168597.png",
+          "character": "Perplexity (creator comment)",
+          "full_resolution": "not_verified",
+          "sha256": null
+        },
+        {
+          "position": 7,
+          "filename": "8be20146d55bf46c3ac2b7bd2cacc55a4168597.png",
+          "character": "unverified",
+          "full_resolution": "not_verified",
+          "sha256": null
+        },
+        {
+          "position": 8,
+          "filename": "29b525f941189a00b6e0e8d935bb25224168597.jpg",
+          "character": "unverified",
+          "full_resolution": "not_verified",
+          "sha256": null
+        },
+        {
+          "position": 9,
+          "filename": "83b4ccd1ab6e9729a3cb57cf347f54844168597.png",
+          "character": "unverified",
+          "full_resolution": "not_verified",
+          "sha256": null
+        }
+      ]
+    }
+  ],
+  "creator_comments": [
+    {
+      "post_id": "1236803362705375305",
+      "date": "2026-10-12",
+      "summary": "Creator explains that the Seed character design incorporates Seed, Seedance and Seedream. Source establishes the design link to Doubao's base model."
+    },
+    {
+      "post_id": "1236803362705375305",
+      "date": "2026-08-16",
+      "summary": "Creator identifies second character as RWKV and sixth as Perplexity."
+    },
+    {
+      "post_id": "1233069202138464289",
+      "date": "2026-08-16",
+      "summary": "Creator explains the GPT dragon concept by referencing an old, rich, acquisitive dragon and visual influences from GPT logo."
+    }
+  ],
+  "rights_notes": [
+    "Creator's pinned comment on both posts notes DeepSeek whale girl derives from 上善无形's character, with CC BY-NC-SA 4.0 noncommercial and share-alike adaptation terms.",
+    "Comments thanking creator for open sharing are not an unambiguous license to rehost the complete image set or permit commercial uses.",
+    "The repository MIT license does not override rights in upstream artworks."
+  ],
+  "character_mapping_updated": "2026-10-16",
+  "full_image_files_stored": true,
+  "original_portraits_verified": 10
+}
