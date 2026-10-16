@@ -11,3 +11,11 @@
 新增角色时同时维护对应 Markdown 和 data/characters.json。添加图片前先通过 [ASSETS.md](ASSETS.md) 的完整性与授权核查。根目录 MIT LICENSE **不适用于没有获得相应授权的第三方人物画稿**。
 
 推荐新资料记录格式：原始链接、创作者、日期、使用角色、支持什么设定、证据等级、是否有版权限制。
+
+## 图片与视觉资料更新
+
+- 每个角色目录包含 `README.md`、`VISUAL.md`、`SOURCE.md`、`portrait.*` 和 `logo.svg`。
+- 变动人物特征时同时核查 `VISUAL.md` 的来源、确认级别，不要把二级图鉴的描述写作作者亲自认可的全部设定。
+- 上传新的立绘前维护 [ARTWORK_LICENSES.md](../ARTWORK_LICENSES.md) 与 [data/artwork-licensing.json](../data/artwork-licensing.json)；没有明确许可时先留下原帖链接及待核实记录，不猜测商用权。
+- 根目录 MIT 不覆盖第三方画作与商标；`data/artwork-verification.json` 只验证文件，不证明授权。
+- 对于角色的商业化二创，应另行确认原画及上游设计的适用许可。

@@ -38,3 +38,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## 文件级许可范围与逐图审核记录
+
+- [仓库 MIT 适用范围](LICENSE_SCOPE.md)：仅限有权许可的原创内容。
+- [逐图授权审核](ARTWORK_LICENSES.md)：DeepSeek 的 CC BY-NC-SA 4.0 声明和其他九张尚待确认的再分发/商用许可。
+- [机器可读许可记录](data/artwork-licensing.json)。
+
+本文件中的 LobeHub MIT 正文保留作为上游 SVG 实现的版权声明；它不是每个第三方品牌 Logo 的商标授权文件。
