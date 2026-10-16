@@ -11,4 +11,9 @@
 - 上游 SVG 代码项目采用 MIT License；品牌 Logo 及商标不因此自动得到品牌方授权。
 - 仓库根目录 MIT LICENSE 不覆盖 ZipZipPipe 或其他第三方绘画作品，也不覆盖他人商标。
 ## 人物设定
-- [角色档案](../grok.md)
+- [角色档案](README.md)
+## 角色资料与版权索引
+
+- [角色视觉设定卡](VISUAL.md)
+- [逐图许可核对表](../../ARTWORK_LICENSES.md)
+- [完整版权范围说明](../../LICENSE_SCOPE.md)
