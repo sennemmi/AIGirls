@@ -43,7 +43,10 @@
       "persona_path": "characters/deepseek/README.md",
       "logo_reference_path": "characters/deepseek/logo.svg",
       "portrait_path": "characters/deepseek/portrait.png",
-      "original_portrait_sha256": "94d58f15c93896d726be1c140de70cc06f3e33cd779bfdf3fe49355b30cce565"
+      "original_portrait_sha256": "94d58f15c93896d726be1c140de70cc06f3e33cd779bfdf3fe49355b30cce565",
+      "visual_design_path": "characters/deepseek/VISUAL.md",
+      "artwork_rights_record": "data/artwork-licensing.json#deepseek",
+      "portrait_rights_status": "cc_by_nc_sa_4_0_creator_stated_derivative"
     },
     {
       "id": "gpt",
@@ -82,7 +85,10 @@
       "persona_path": "characters/gpt/README.md",
       "logo_reference_path": "characters/gpt/logo.svg",
       "portrait_path": "characters/gpt/portrait.jpg",
-      "original_portrait_sha256": "b588317b634a6f987b48148504963f7df750e245efdcaba2488b04511c39cd4b"
+      "original_portrait_sha256": "b588317b634a6f987b48148504963f7df750e245efdcaba2488b04511c39cd4b",
+      "visual_design_path": "characters/gpt/VISUAL.md",
+      "artwork_rights_record": "data/artwork-licensing.json#gpt",
+      "portrait_rights_status": "redistribution_scope_unverified"
     },
     {
       "id": "claude",
@@ -121,7 +127,10 @@
       "persona_path": "characters/claude/README.md",
       "logo_reference_path": "characters/claude/logo.svg",
       "portrait_path": "characters/claude/portrait.jpg",
-      "original_portrait_sha256": "bec975c5feb5bb316bf80c25b562ddc7d477ed788616389ae8a9762d8fdd7c36"
+      "original_portrait_sha256": "bec975c5feb5bb316bf80c25b562ddc7d477ed788616389ae8a9762d8fdd7c36",
+      "visual_design_path": "characters/claude/VISUAL.md",
+      "artwork_rights_record": "data/artwork-licensing.json#claude",
+      "portrait_rights_status": "redistribution_scope_unverified"
     },
     {
       "id": "glm",
@@ -160,7 +169,10 @@
       "persona_path": "characters/glm/README.md",
       "logo_reference_path": "characters/glm/logo.svg",
       "portrait_path": "characters/glm/portrait.png",
-      "original_portrait_sha256": "38a53dbfa1d851dd3c33212a2da09573f1f26508b5a09064476d775add9f1a8b"
+      "original_portrait_sha256": "38a53dbfa1d851dd3c33212a2da09573f1f26508b5a09064476d775add9f1a8b",
+      "visual_design_path": "characters/glm/VISUAL.md",
+      "artwork_rights_record": "data/artwork-licensing.json#glm",
+      "portrait_rights_status": "redistribution_scope_unverified"
     },
     {
       "id": "gemini",
@@ -199,7 +211,10 @@
       "persona_path": "characters/gemini/README.md",
       "logo_reference_path": "characters/gemini/logo.svg",
       "portrait_path": "characters/gemini/portrait.jpg",
-      "original_portrait_sha256": "1dc86d13132d97ecf3c368b250676a014eb7496703704138b3ecbfe30d0acf25"
+      "original_portrait_sha256": "1dc86d13132d97ecf3c368b250676a014eb7496703704138b3ecbfe30d0acf25",
+      "visual_design_path": "characters/gemini/VISUAL.md",
+      "artwork_rights_record": "data/artwork-licensing.json#gemini",
+      "portrait_rights_status": "redistribution_scope_unverified"
     },
     {
       "id": "doubao",
@@ -212,7 +227,7 @@
       ],
       "project_canon": [
         "呆萌和毒舌两面都要保留：上一秒发呆，下一秒一句话让大家无话可说。",
-        "视觉上暂不擅自把 Seed 娘与其他版本豆包娘视为完全同一角色。"
+        "本项目采用 ZipZipPipe 的 Seed（豆包底模）拟人立绘，并保留天然呆、毒舌反差；不混淆不同 Seed 产品的技术身份。"
       ],
       "optional_extensions": [
         "不知道自己吐槽有多精准。",
@@ -231,14 +246,17 @@
       ],
       "reality_guardrails": [
         "毒舌不能写成无底线攻击。",
-        "与 ZipZipPipe Seed 娘的视觉对应关系待原作者原图核实。"
+        "角色的视觉对应已由 ZipZipPipe 原帖和评论确认；其再分发、商用许可仍需另外核实。"
       ],
       "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/seed",
       "visual_assets": "original_binary_verified_third_party_rights_apply",
       "persona_path": "characters/doubao/README.md",
       "logo_reference_path": "characters/doubao/logo.svg",
       "portrait_path": "characters/doubao/portrait.jpg",
-      "original_portrait_sha256": "81b76f71e19ed9f926e32c70f1710b7551e60efdfa858b46a4ee099d16e47847"
+      "original_portrait_sha256": "81b76f71e19ed9f926e32c70f1710b7551e60efdfa858b46a4ee099d16e47847",
+      "visual_design_path": "characters/doubao/VISUAL.md",
+      "artwork_rights_record": "data/artwork-licensing.json#doubao",
+      "portrait_rights_status": "redistribution_scope_unverified"
     },
     {
       "id": "grok",
@@ -277,7 +295,10 @@
       "persona_path": "characters/grok/README.md",
       "logo_reference_path": "characters/grok/logo.svg",
       "portrait_path": "characters/grok/portrait.jpg",
-      "original_portrait_sha256": "730d6ea99cb5cda25035aaf75d8815a01761a660b1ecba156b9cc6b3c48df66c"
+      "original_portrait_sha256": "730d6ea99cb5cda25035aaf75d8815a01761a660b1ecba156b9cc6b3c48df66c",
+      "visual_design_path": "characters/grok/VISUAL.md",
+      "artwork_rights_record": "data/artwork-licensing.json#grok",
+      "portrait_rights_status": "redistribution_scope_unverified"
     },
     {
       "id": "qwen",
@@ -316,7 +337,10 @@
       "persona_path": "characters/qwen/README.md",
       "logo_reference_path": "characters/qwen/logo.svg",
       "portrait_path": "characters/qwen/portrait.jpg",
-      "original_portrait_sha256": "ef613401931a57d81a4de6aa9149acfea9de57d92e6b3f895b456cb2e6bde4ba"
+      "original_portrait_sha256": "ef613401931a57d81a4de6aa9149acfea9de57d92e6b3f895b456cb2e6bde4ba",
+      "visual_design_path": "characters/qwen/VISUAL.md",
+      "artwork_rights_record": "data/artwork-licensing.json#qwen",
+      "portrait_rights_status": "redistribution_scope_unverified"
     },
     {
       "id": "kimi",
@@ -355,7 +379,10 @@
       "persona_path": "characters/kimi/README.md",
       "logo_reference_path": "characters/kimi/logo.svg",
       "portrait_path": "characters/kimi/portrait.png",
-      "original_portrait_sha256": "f6718d162fce6aa5f67bdd6059ee06e9b45f5b29e26828f1f317c516694a74c0"
+      "original_portrait_sha256": "f6718d162fce6aa5f67bdd6059ee06e9b45f5b29e26828f1f317c516694a74c0",
+      "visual_design_path": "characters/kimi/VISUAL.md",
+      "artwork_rights_record": "data/artwork-licensing.json#kimi",
+      "portrait_rights_status": "redistribution_scope_unverified"
     },
     {
       "id": "minimax",
@@ -394,7 +421,10 @@
       "persona_path": "characters/minimax/README.md",
       "logo_reference_path": "characters/minimax/logo.svg",
       "portrait_path": "characters/minimax/portrait.jpg",
-      "original_portrait_sha256": "5167f2bbbe9f9ee038dc163f240c847b7d953e244c25e13bdc6ee482d3e9bfb0"
+      "original_portrait_sha256": "5167f2bbbe9f9ee038dc163f240c847b7d953e244c25e13bdc6ee482d3e9bfb0",
+      "visual_design_path": "characters/minimax/VISUAL.md",
+      "artwork_rights_record": "data/artwork-licensing.json#minimax",
+      "portrait_rights_status": "redistribution_scope_unverified"
     }
   ]
 }

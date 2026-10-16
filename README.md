@@ -27,17 +27,21 @@
 ## 目录
 
 - [characters](characters/)：逐人详细档案、台词风格、关系、剧情钩子及事实禁区。
-- [data/characters.json](data/characters.json)：Agent 可读取的结构化同源数据，不含图片与外貌。
+- [data/characters.json](data/characters.json)：Agent 可读取的结构化同源数据，含人设、视觉文件路径及摘要校验值。
 - [docs/RELATIONSHIPS.md](docs/RELATIONSHIPS.md)：群像互动与轻百合关系。
 - [docs/EVENTS.md](docs/EVENTS.md)：新闻、争议与社区梗的事实边界。
 - [docs/WRITING_GUIDE.md](docs/WRITING_GUIDE.md)：创作流程及人设一致性检查。
 - [docs/SOURCES.md](docs/SOURCES.md)：原帖、二级图鉴、真实新闻资料来源。
 - [docs/ASSETS.md](docs/ASSETS.md)：ZipZipPipe 素材完整性与许可核验。
 - [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md)：参与维护及证据层级。
+- [ARTWORK_LICENSES.md](ARTWORK_LICENSES.md)：逐角色第三方立绘授权核对表。
+- [LICENSE_SCOPE.md](LICENSE_SCOPE.md)：MIT 仅覆盖可合法授权的原创仓库内容。
+- [data/artwork-licensing.json](data/artwork-licensing.json)：适合工具消费的素材权限状态。
+- `characters/<id>/VISUAL.md`：生图使用的视觉身份卡；仍须与原图配合。
 
 ## 版权提示
 
-根目录 MIT LICENSE 仅覆盖该许可实际适用的本仓库原创整理内容，**不自动覆盖 ZipZipPipe、上善无形等第三方插画/人物设计、视频、音乐、商标或相关版权**。允许二创不代表允许商业使用；部分上游角色作品标有 CC BY-NC-SA 4.0 非商业条件。
+根目录 [MIT LICENSE](LICENSE) 仅覆盖有权许可的原创内容，不包括第三方美术或品牌标志权利。DeepSeek 鲸鱼娘有作者声明的 CC BY-NC-SA 4.0 非商业二创条款；其余九张原画的再分发/商用授权仍待逐图核实。详见 [权限范围](LICENSE_SCOPE.md) 和 [逐图记录](ARTWORK_LICENSES.md)。
 
 ## 角色视觉画廊
 

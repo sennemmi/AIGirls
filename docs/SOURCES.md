@@ -8,7 +8,7 @@
 - [B 站 ZipZipPipe 作者主页](https://space.bilibili.com/4168597)。
 - [上善无形](https://space.bilibili.com/4456176)：DeepSeek 鲸鱼娘上游原创作者，相关二创注明 CC BY-NC-SA 4.0。
 
-详细的 18 个展示图片文件标识见 [数据清单](../data/source-image-manifest.json)；**清单不意味着已有完整图像文件或获得转载许可**。
+18 个图片展示位置的原始文件标识见 [数据清单](../data/source-image-manifest.json)。其中十张原图已入库并通过 SHA-256 与尺寸核验（[校验文件](../data/artwork-verification.json)）；这不等于所有图片的再分发或商业授权已核实（[许可状态](../ARTWORK_LICENSES.md)）。
 
 ## 第三方图鉴索引（不是原始授权材料）
 
@@ -16,7 +16,7 @@
 
 ## 人设固定事项
 
-- 视觉统一参考 ZipZipPipe；没有完整原图与许可链则不上传图片。
+- 视觉统一参考 ZipZipPipe；十张原图已入库，仍须逐图确认再分发和商用许可，见独立授权清单。
 - DeepSeek 与 Claude 为闺蜜并有轻百合氛围；GLM 狐狸性格与 ZCode 梗；Gemini 流口水/逆袭；豆包流口水兼毒舌。
 
 ## 事实事件

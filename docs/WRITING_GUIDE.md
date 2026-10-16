@@ -6,11 +6,11 @@
 4. 保持成长与反差；不能为了一个梗让整个角色永久降智、失去能力或无缘无故伤害他人。
 5. 现实争议、排行榜、模型发布会必须核对新闻来源、时间和版本。对比内容不能把虚构台词冒充官方发言。
 6. 发稿前检查人际关系连续性，特别是 DeepSeek × Claude 的闺蜜及轻百合氛围。
-7. 视觉原图不全时不要靠其他画师版本或随意提示词猜测外貌。见 [ASSETS.md](ASSETS.md)。
+7. 每个角色已有 ZipZipPipe 源图与 VISUAL 视觉设定卡；生图时应同时加载二者，不得混用其他画师设计或随意臆造造型。见 [ASSETS.md](ASSETS.md)。
 
 ## Agent 读取顺序
 
-先取 [结构化 JSON](../data/characters.json) 确定角色、项目 canon 与 guardrails；再阅读相应 Markdown 的语气和剧情细节，最后查真实热点来源。
+先取 [结构化 JSON](../data/characters.json) 确定角色、项目 canon 与 guardrails；再阅读对应目录 `README.md` 和 `VISUAL.md`，并传入 `portrait.*` 参考原图，最后查真实热点来源。商用前核对 [授权清单](../ARTWORK_LICENSES.md)。
 
 ## 发布渠道
 

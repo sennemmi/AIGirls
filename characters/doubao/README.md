@@ -2,7 +2,7 @@
 
 > 角色功能：天然呆又突然毒舌的反差萌担当。
 >
-> **视觉设计来源已核实：ZipZipPipe 2026-08-15 的 Seed（豆包底模）拟人角色；2026-10-12 作者进一步说明设计融入 Seed、Seedance、Seedream。** 具体原画文件暂未收录。
+> **视觉设计来源已核实：ZipZipPipe 2026-08-15 的 Seed（豆包底模）拟人角色；2026-10-12 作者进一步说明设计融入 Seed、Seedance、Seedream。** 对应原画文件已收入本目录。
 
 ## 社区梗
 
@@ -32,7 +32,7 @@
 - ZipZipPipe 原帖：https://www.bilibili.com/opus/1236803362705375305
 - 作者 2026-10-12 评论：Seed、Seedance、Seedream 特征体现在这一角色上。
 - [原图核验和授权状态](../../docs/ASSETS.md)
-- 图片暂不入库；本文件不代替原作者具体的视觉设计文件或任何图像许可。
+- 已入库的原画仍由相应画师／上游权利人保留权利，具体再分发与商业授权仍需核实；详见 [逐图许可清单](../../ARTWORK_LICENSES.md)。
 
 ## 立绘和品牌标志参考
 
@@ -41,3 +41,5 @@
 - [第三方作者及许可提醒](SOURCE.md)。
 
 <img src="portrait.jpg" alt="doubao 原作者立绘" width="320" />
+
+- [ZipZipPipe 风格视觉设定卡](VISUAL.md)。

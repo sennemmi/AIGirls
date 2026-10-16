@@ -1,34 +1,40 @@
-# ZipZipPipe 视觉资产与 Logo 核验
+# ZipZipPipe 图像与 AI 品牌 Logo 的来源、完整性及许可状态
 
-更新时间：2026-10-16。十位核心角色已从原作者两批画廊逐张对照识别。
+更新于 2026-10-16。十张高清图已存放于 `characters/<角色>/portrait.*`，并由 [校验记录](../data/artwork-verification.json) 保存尺寸、字节长度与 SHA-256；十枚 Logo SVG 参考图也已入库。
 
-## 十位标准立绘对应
+**技术完整性不等于版权许可。** 当前仅 DeepSeek 鲸鱼娘有可定位的作者置顶非商业二创授权说明，其他九张的公开再分发与商用范围未被独立证实。详情必须查看 [逐图授权清单](../ARTWORK_LICENSES.md)。
 
-| 角色 | 原帖 | 图序 | 资源目录 |
-|---|---|---:|---|
-| deepseek | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 1 | characters/deepseek/ |
-| kimi | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 2 | characters/kimi/ |
-| glm | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 3 | characters/glm/ |
-| qwen | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 4 | characters/qwen/ |
-| gemini | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 5 | characters/gemini/ |
-| claude | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 6 | characters/claude/ |
-| gpt | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 7 | characters/gpt/ |
-| grok | [B站动态](https://www.bilibili.com/opus/1233069202138464289) | 8 | characters/grok/ |
-| doubao | [B站动态](https://www.bilibili.com/opus/1236803362705375305) | 1 | characters/doubao/ |
-| minimax | [B站动态](https://www.bilibili.com/opus/1236803362705375305) | 5 | characters/minimax/ |
+## 每人目录
 
-## 文件结构
+- `README.md`：角色人格、社区梗、关系与故事规则。
+- `VISUAL.md`：高置信度的可辨认外观与创作禁区；配合原图使用。
+- `portrait.png/.jpg`：从 ZipZipPipe 原动态下载的源图字节，未裁剪。
+- `logo.svg`：LobeHub/lobe-icons 维护的品牌标志 SVG **参考实现**，不是品牌方许可证明。
+- `SOURCE.md`：原动态、角色位置、作者与原始图片文件名、Logo 来源。
 
-每位 AI 使用 characters/{角色名}/ 文件夹：logo.svg 为品牌标志 SVG 参考、SOURCE.md 记录图片和 Logo 原始来源，portrait.png 或 portrait.jpg 为自动导入且通过全套尺寸校验的 ZipZipPipe 原始美术文件。
-人物的现有 Markdown 档案继续位于 characters/{角色名}.md；每个资源目录 SOURCE.md 已链接到对应人设。
+## 立绘对应及身份核对
 
-## 下载状态及核验
+| 人物 | 动态图片位置 | 文件 |
+|---|---|---|
+| deepseek | [动态 1233069202138464289 / 第 1 张](https://www.bilibili.com/opus/1233069202138464289) | [原画](../characters/deepseek/portrait.png) |
+| kimi | [动态 1233069202138464289 / 第 2 张](https://www.bilibili.com/opus/1233069202138464289) | [原画](../characters/kimi/portrait.png) |
+| glm | [动态 1233069202138464289 / 第 3 张](https://www.bilibili.com/opus/1233069202138464289) | [原画](../characters/glm/portrait.png) |
+| qwen | [动态 1233069202138464289 / 第 4 张](https://www.bilibili.com/opus/1233069202138464289) | [原画](../characters/qwen/portrait.jpg) |
+| gemini | [动态 1233069202138464289 / 第 5 张](https://www.bilibili.com/opus/1233069202138464289) | [原画](../characters/gemini/portrait.jpg) |
+| claude | [动态 1233069202138464289 / 第 6 张](https://www.bilibili.com/opus/1233069202138464289) | [原画](../characters/claude/portrait.jpg) |
+| gpt | [动态 1233069202138464289 / 第 7 张](https://www.bilibili.com/opus/1233069202138464289) | [原画](../characters/gpt/portrait.jpg) |
+| grok | [动态 1233069202138464289 / 第 8 张](https://www.bilibili.com/opus/1233069202138464289) | [原画](../characters/grok/portrait.jpg) |
+| doubao | [动态 1236803362705375305 / 第 1 张](https://www.bilibili.com/opus/1236803362705375305) | [原画](../characters/doubao/portrait.jpg) |
+| minimax | [动态 1236803362705375305 / 第 5 张](https://www.bilibili.com/opus/1236803362705375305) | [原画](../characters/minimax/portrait.jpg) |
 
-资源目录和 Logo 已提交。十幅立绘通过 scripts/import_zipzippipe_art.py 在 PR #2 的 GitHub Actions 中整批获取；只有 10/10 均成功且每幅短边不少于 700 像素才写入并提交。
-是否导入完成要查看 data/artwork-verification.json 的 SHA256 / 尺寸记录及实际 portrait 文件；没有这些文件就代表未完成，绝不能声称已经上传原画。
+- 原帖 ①：[所有的 AI 们，和 OpenCode](https://www.bilibili.com/opus/1233069202138464289)。
+- 原帖 ②：[AI 娘第二批，有 Seed（豆包底模）](https://www.bilibili.com/opus/1236803362705375305)。作者在评论说明 Seed、Seedance、Seedream 元素同属于 Seed 娘设计。
+- 共计两条动态展示 18 张图片，十张核心角色原画已收录；其他图片是衍生版本和其他 AI 角色，不应随意映射到十位主角。
+- SHA-256 是下载文件的完整性标识，不是画师签名或授权证明；视觉卡的文字部分结合原帖与二级图鉴，尚未将全部小细节核定为原作者明确设定。
 
-## 版权与商标
+## 商业使用、再分发及商标
 
-ZipZipPipe 两条动态均有置顶说明：DeepSeek 鲸鱼娘基于上善无形的原创，依 CC BY-NC-SA 4.0 非商业与相同方式共享协议二创。
-这不自动证明所有其余形象均具有完全相同授权。公开发布、评论区所称开源不能替代逐图许可；将来商用请与相关权利人确认。
-SVG 参考图源自 LobeHub/lobe-icons 社区图标资源（MIT 实现），并非所有品牌方直接发布的官方授权素材；商标权保留给原权利人。仓库 MIT LICENSE 不覆盖第三方艺术作品和商标。
+- DeepSeek 的画师说明涉及上善无形原创角色，按 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)（署名、非商业、相同方式共享）二创。需遵守实际授权范围。
+- 其他作品已有出处，但授权范围未逐项验证，不能根据“公开展示／可下载”推定允许 GitHub 再发布或商业使用。
+- 品牌标志仍受相应品牌商标和品牌使用规范约束；SVG 绘图实现的上游代码采用 MIT 不意味着商标获得 MIT 授权。
+- 仓库原创代码与文档的 MIT 范围见 [LICENSE_SCOPE.md](../LICENSE_SCOPE.md)，其他声明见 [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md)。
