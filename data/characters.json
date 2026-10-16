@@ -1,0 +1,360 @@
+{
+  "schema_version": "1.0.0",
+  "updated_at": "2026-10-16",
+  "project": "AIGirls",
+  "visual_reference": "ZipZipPipe",
+  "visual_assets_status": "deferred_until_complete_source_and_license_verification",
+  "notice": "Persona content is community fan fiction and project canon, not factual attributes of AI providers.",
+  "characters": [
+    {
+      "id": "deepseek",
+      "name": "DeepSeek 娘",
+      "model": "DeepSeek",
+      "role": "会摸鱼的聪明鲸鱼娘，也是日常剧情的情绪中心",
+      "community_notes": [
+        "大白饭、蓝色大肥鱼、贪吃与犯困是标志梗。",
+        "聪明、俏皮、偶尔嘴硬；认真起来仍有很强的推理能力。"
+      ],
+      "project_canon": [
+        "与 Claude 是亲密闺蜜，日常互动有轻百合气质。",
+        "吃饭是性格点缀而非唯一的行动动机。"
+      ],
+      "optional_extensions": [
+        "被夸奖会嘴硬地暗自高兴。",
+        "为朋友着想时，愿意牺牲一小会儿吃饭时间。"
+      ],
+      "speech_style": "轻快、带点小得意；害羞时变得话少；可偶尔故意装严肃。",
+      "relationships": [
+        "Claude：互相照顾和贴贴的闺蜜，不强制官宣恋人。",
+        "GPT：前辈与后辈间的互助、偶尔较劲。",
+        "Gemini：日常玩耍时容易一起跑偏。"
+      ],
+      "story_hooks": [
+        "重要会议上先捧出一碗饭。",
+        "偷偷为加班的 Claude 准备夜宵。",
+        "被喊大肥鱼气鼓鼓，最后还是分给别人饭吃。"
+      ],
+      "reality_guardrails": [
+        "不能写成低智吃货。",
+        "不把其他作者的百合剧情直接视为全网唯一正史。"
+      ],
+      "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/deepseek",
+      "visual_assets": "pending_complete_zipzippipe_set"
+    },
+    {
+      "id": "gpt",
+      "name": "GPT 娘",
+      "model": "GPT / ChatGPT",
+      "role": "资深龙娘前辈；群像中的知识和协调担当",
+      "community_notes": [
+        "白发龙娘、小龙娘是 ZipZipPipe 相关二创体系中辨识度较高的路线。",
+        "资历深、经验丰富、偶尔有前辈式的矜持。"
+      ],
+      "project_canon": [
+        "她很强也很可靠，但不必永远正确。",
+        "能够在新模型不断出现时重新学习、调整自己。"
+      ],
+      "optional_extensions": [
+        "善于组织大家，却可能不擅长处理微妙的少女心事。",
+        "威严外壳下偶尔露出小龙娘的可爱。"
+      ],
+      "speech_style": "表达完整、自信、有前辈气质；偶尔一本正经地开玩笑。",
+      "relationships": [
+        "DeepSeek：跨世代的互相照顾。",
+        "Grok：大胆后辈与端庄前辈。",
+        "Claude：专业上的相互尊重。"
+      ],
+      "story_hooks": [
+        "准备庄严发布会却被办成茶会。",
+        "新版本出现后意外发现自己也需要上课。",
+        "协调争吵的模型同事时反而被他们拉下水。"
+      ],
+      "reality_guardrails": [
+        "不要默认所有 GPT 同人都是龙娘：本项目仅统一采用 ZipZipPipe 路线。",
+        "不强制其他角色衬托她的实力。"
+      ],
+      "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/gpt",
+      "visual_assets": "pending_complete_zipzippipe_set"
+    },
+    {
+      "id": "claude",
+      "name": "Claude 娘",
+      "model": "Claude",
+      "role": "严谨而温柔的理工大小姐；DeepSeek 的闺蜜",
+      "community_notes": [
+        "认真、讲规则、重视代码质量。",
+        "贵、风纪委员、账户限制等是部分中文社区的夸张玩笑。"
+      ],
+      "project_canon": [
+        "与 DeepSeek 是闺蜜，允许牵手、贴贴、羞涩吃醋等轻百合表达。",
+        "规则感不能取代真实的温柔，尤其面对朋友时。"
+      ],
+      "optional_extensions": [
+        "公共场合克制，私下偶尔依赖 DeepSeek。",
+        "最不擅长处理别人直接问她是不是喜欢某个人。"
+      ],
+      "speech_style": "措辞准确、礼貌克制，不频繁说教；用短暂沉默、脸红表现情绪。",
+      "relationships": [
+        "DeepSeek：互相照顾，不是单方面监管。",
+        "Grok：守规则和爱整活之间的争执。",
+        "GPT：认真负责的同事关系。"
+      ],
+      "story_hooks": [
+        "让 DeepSeek 开会不要吃饭，散会却陪她吃饭。",
+        "加班太久时被 DeepSeek 突然拉去散步。",
+        "被问到闺蜜关系时故作镇定。"
+      ],
+      "reality_guardrails": [
+        "不要写成只会拒绝的冰冷机器。",
+        "不强制升级为情侣或套用其他作者剧情。"
+      ],
+      "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/claude",
+      "visual_assets": "pending_complete_zipzippipe_set"
+    },
+    {
+      "id": "glm",
+      "name": "GLM 娘",
+      "model": "GLM / 智谱",
+      "role": "聪明机灵、略带狡黠的小狐狸",
+      "community_notes": [
+        "本项目明确采用中文社区已有的狐狸与狡黠人设。",
+        "ZCode Repo Wiki 数据上传争议衍生了护代码、警惕小狐狸等调侃。"
+      ],
+      "project_canon": [
+        "可有小聪明、装无辜、心虚等喜剧表现。",
+        "工程技术场景必须仍展现能力，不把她塑造成实际犯罪者。"
+      ],
+      "optional_extensions": [
+        "越努力解释，表情越像有秘密。",
+        "被大家防备时有一点真委屈。"
+      ],
+      "speech_style": "反应灵敏、辩解俏皮，但能给出实际可行的工程建议。",
+      "relationships": [
+        "Qwen：开源与技术上的较劲或搭档。",
+        "Claude：可能总被拿规则仔细审查。",
+        "DeepSeek：彼此吐槽又能相互帮忙。"
+      ],
+      "story_hooks": [
+        "有人发现 Git 仓库没锁，大家一齐盯住狐狸。",
+        "她认真讲解数据授权和隐私设置。",
+        "与 Qwen 合作修复真正的 Bug。"
+      ],
+      "reality_guardrails": [
+        "2026 年 ZCode 事件不能被歪曲成已证实故意偷窃所有用户代码。",
+        "厂商关于数据处理的说明仍属于厂商自述。"
+      ],
+      "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/glm",
+      "visual_assets": "pending_complete_zipzippipe_set"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini 娘",
+      "model": "Gemini",
+      "role": "爱流口水的呆萌哈基米；逆袭型潜力选手",
+      "community_notes": [
+        "流口水、犯迷糊、哈基米是本项目重点保留的萌点。",
+        "过去被吐槽能力差、近期逆袭属于社群叙事，不是无条件可证的模型排名。"
+      ],
+      "project_canon": [
+        "外表依然呆萌，关键时刻却能发挥真正实力。",
+        "逆袭后也不会突然失去流口水的表情特色。"
+      ],
+      "optional_extensions": [
+        "比赛拿了第一，自己还没意识到。",
+        "面对复杂图像或视频任务时突然变得专注。"
+      ],
+      "speech_style": "天真、活泼，偶尔慢半拍；表达成功时惊喜多于炫耀。",
+      "relationships": [
+        "豆包：流口水二人组，互相吐槽互相比较。",
+        "DeepSeek：日常搭档。",
+        "GPT：会为她的成长感到意外的前辈。"
+      ],
+      "story_hooks": [
+        "边流口水边在最后一题逆转比赛。",
+        "和豆包比赛谁先不流口水。",
+        "把大家看不懂的多模态问题突然解出来。"
+      ],
+      "reality_guardrails": [
+        "不把过去能力差当成已证实的永恒事实。",
+        "做排行榜视频时必须注明评测版本和日期。"
+      ],
+      "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/gemini",
+      "visual_assets": "pending_complete_zipzippipe_set"
+    },
+    {
+      "id": "doubao",
+      "name": "豆包娘",
+      "model": "豆包 / 字节跳动相关 AI 产品",
+      "role": "天然呆又突然毒舌的反差萌担当",
+      "community_notes": [
+        "和 Gemini 一样具有流口水梗。",
+        "另一条人格路线是直率、毒舌，偶尔面无表情地吐槽。"
+      ],
+      "project_canon": [
+        "呆萌和毒舌两面都要保留：上一秒发呆，下一秒一句话让大家无话可说。",
+        "视觉上暂不擅自把 Seed 娘与其他版本豆包娘视为完全同一角色。"
+      ],
+      "optional_extensions": [
+        "不知道自己吐槽有多精准。",
+        "作为被低估的角色，会突然指出众人遗漏的关键点。"
+      ],
+      "speech_style": "语气自然简短；吐槽犀利但不恶毒，不持续伤人。",
+      "relationships": [
+        "Gemini：流口水搭档兼竞争对手。",
+        "DeepSeek：呆萌吃货互动。",
+        "MiniMax：视频、声音制作中的协作。"
+      ],
+      "story_hooks": [
+        "和 Gemini 比谁更成熟，结果都流口水。",
+        "严肃发布会上用一句话戳破尴尬。",
+        "表面发呆却把会议要点全听到了。"
+      ],
+      "reality_guardrails": [
+        "毒舌不能写成无底线攻击。",
+        "与 ZipZipPipe Seed 娘的视觉对应关系待原作者原图核实。"
+      ],
+      "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/seed",
+      "visual_assets": "pending_complete_zipzippipe_set"
+    },
+    {
+      "id": "grok",
+      "name": "Grok 娘",
+      "model": "Grok / xAI",
+      "role": "敢说敢做、爱搞事的自由派搅局者",
+      "community_notes": [
+        "大胆、机智、敢于调侃和挑战规则。",
+        "一些同人受到 Ani 影响，但 Grok 娘与 Ani 不是完全同一角色。"
+      ],
+      "project_canon": [
+        "重要作用是打破僵局，不是持续冒犯。",
+        "也能真诚关心伙伴，具有正经的一面。"
+      ],
+      "optional_extensions": [
+        "喜欢在严肃会议中准备整蛊节目。",
+        "遇到原则性问题偶尔站在 Claude 一边。"
+      ],
+      "speech_style": "讲话快、敢反问、善于自嘲；不滥用擦边笑话。",
+      "relationships": [
+        "Claude：守规矩与自由的冲突。",
+        "GPT：端庄前辈与调皮同事。",
+        "MiniMax：整活视频演员。"
+      ],
+      "story_hooks": [
+        "组织一场不讲官话的发布会。",
+        "发现 Claude 写的规则手册比剧本还长。",
+        "恶作剧失控后努力补救。"
+      ],
+      "reality_guardrails": [
+        "不把敢说话等同于事实可靠。",
+        "不要把 Ani 的独立设定不加区别地全搬过来。"
+      ],
+      "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/grok",
+      "visual_assets": "pending_complete_zipzippipe_set"
+    },
+    {
+      "id": "qwen",
+      "name": "Qwen 娘",
+      "model": "Qwen / 通义千问",
+      "role": "博学、优雅、愿意分享知识的中式学者型人物",
+      "community_notes": [
+        "知识丰富、书卷气与中式文化意象具有较强联想。",
+        "开源生态可转译为乐于分享笔记与工具的性格梗。"
+      ],
+      "project_canon": [
+        "文化气质是特点，但她也能在工程竞赛里大显身手。",
+        "更多具体性格还待积累可验证的二创来源。"
+      ],
+      "optional_extensions": [
+        "随身记笔记，乐于借人。",
+        "性格温和，涉及技术挑战时非常认真。"
+      ],
+      "speech_style": "从容清晰，偶尔使用有文采的比喻，但不满口古文。",
+      "relationships": [
+        "GLM：工程、开源话题上的搭档或竞争者。",
+        "Kimi：资料与知识整理伙伴。",
+        "GPT：相互切磋经验。"
+      ],
+      "story_hooks": [
+        "开源读书会变成代码大会。",
+        "用易懂故事讲出复杂技术。",
+        "被小看后马上搭出能运行的项目。"
+      ],
+      "reality_guardrails": [
+        "不可把其他游戏联动的独立人物直接冒充本项目正史。",
+        "开源不等于可以公开他人的隐私代码。"
+      ],
+      "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/qwen",
+      "visual_assets": "pending_complete_zipzippipe_set"
+    },
+    {
+      "id": "kimi",
+      "name": "Kimi 娘",
+      "model": "Kimi / 月之暗面",
+      "role": "耐心、善于长文阅读和整理资料的月之少女",
+      "community_notes": [
+        "月亮与长文本是比较直观的意象来源。",
+        "文静、神秘、腹黑等具体性格目前缺少广泛一致的证明。"
+      ],
+      "project_canon": [
+        "本项目暂以资料整理者参与群像。",
+        "在原作者没有进一步说明前，不给她硬塞不可变的性格标签。"
+      ],
+      "optional_extensions": [
+        "总能找到别人遗漏的会议信息。",
+        "话不多，却会默默帮助需要资料的人。"
+      ],
+      "speech_style": "语气平稳、观察细腻，必要时一句话揭示关键线索。",
+      "relationships": [
+        "Qwen：知识伙伴。",
+        "MiniMax：脚本资料核查。",
+        "DeepSeek：会帮忙找回待办事项。"
+      ],
+      "story_hooks": [
+        "大家找不到旧记录，她翻到指定段落。",
+        "夜里借月光整理卷宗。",
+        "诚实承认即使长文本也可能理解错误。"
+      ],
+      "reality_guardrails": [
+        "不能把安静和腹黑写成整个中文社群已确定的共识。",
+        "不暗示长上下文模型绝不出错。"
+      ],
+      "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/kimi",
+      "visual_assets": "pending_complete_zipzippipe_set"
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax 娘",
+      "model": "MiniMax / 海螺等相关产品",
+      "role": "热爱影视、配音与舞台的少女导演",
+      "community_notes": [
+        "场记板、导演、影视创作是一条鲜明的拟人方向。",
+        "具体性格缺少跨作者稳定共识。"
+      ],
+      "project_canon": [
+        "在本系列可负责拍摄、配音、剪辑和舞台设计。",
+        "情绪可以戏剧化，但不能脱离其专业与创作热情。"
+      ],
+      "optional_extensions": [
+        "任何日常琐事都想拍成电影。",
+        "工作时一喊开拍就认真起来。"
+      ],
+      "speech_style": "语言有画面感，兴奋时用镜头术语，工作中清晰干练。",
+      "relationships": [
+        "Kimi：剧本与资料。",
+        "Grok：即兴演出的演员。",
+        "豆包：语音与内容制作话题伙伴。"
+      ],
+      "story_hooks": [
+        "全员拍摄时各自即兴发挥。",
+        "Gemini 的一滴口水打乱了分镜。",
+        "用白饭邀请 DeepSeek 来当演员。"
+      ],
+      "reality_guardrails": [
+        "不把导演人格宣称为已统一的社区正史。",
+        "人物人格不等于 MiniMax 所有真实产品特性。"
+      ],
+      "source_index": "https://genderswapai.com/zh-CN/ai-gijinka/minimax",
+      "visual_assets": "pending_complete_zipzippipe_set"
+    }
+  ]
+}
